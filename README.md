@@ -1,2 +1,2 @@
 # MechPy
-coming soon
+coming soon™
