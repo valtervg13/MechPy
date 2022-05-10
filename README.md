@@ -10,4 +10,4 @@ Detalhes da estrutura da biblioteca e documentação podem ser encotrados na Wik
 
 Para instalar a biblioteca, execute o comando pip install no seu terminal:
 
-  pip install MechEngPy
+    pip install MechEngPy
