@@ -6,7 +6,7 @@ O projeto encontra-se em fase inicial, sendo, a priori, indelizado para uso pess
 
 Detalhes da estrutura da biblioteca e documentação podem ser encotrados na Wiki do Github.
 
-#Instalção
+# Instalação
 
 Para instalar a biblioteca, execute o comando pip install no seu terminal:
 
